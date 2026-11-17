@@ -11,7 +11,6 @@ Projeler:
 - Q6 - Prime Numbers
 - Q7 - Circle2D
 - Q8 - Approximate e
-- Q9 - Placeholder / not specified yet
 
 Her proje kendi `src` klasörü içindedir ve `Main.java` ile test edilir.
 
