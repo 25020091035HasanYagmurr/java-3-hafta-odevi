@@ -1,0 +1,25 @@
+# Soru 7 - Circle2D
+
+UML:
+
++----------------------------------+
+| Circle2D                         |
++----------------------------------+
+| - x: double                      |
+| - y: double                      |
+| - radius: double                 |
++----------------------------------+
+| + Circle2D()                     |
+| + Circle2D(x:double, y:double, r:double)
+| + getX(): double                 |
+| + getY(): double                 |
+| + getRadius(): double            |
+| + getArea(): double              |
+| + getPerimeter(): double         |
+| + contains(x:double, y:double): boolean
+| + contains(circle: Circle2D): boolean
+| + overlaps(circle: Circle2D): boolean
++----------------------------------+
+
+Bu proje Circle2D sınıfını ve test programını içerir.
+
